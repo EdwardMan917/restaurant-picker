@@ -1,0 +1,688 @@
+{
+    "aberdeen": {
+        "location_id": "1012",
+        "translations": {
+            "en-US": "Aberdeen",
+            "zh-HK": "香港仔"
+        }
+    },
+    "admiralty": {
+        "location_id": "1011",
+        "translations": {
+            "en-US": "Admiralty",
+            "zh-HK": "金鐘"
+        }
+    },
+    "apleichau": {
+        "location_id": "1020",
+        "translations": {
+            "en-US": "Ap Lei Chau",
+            "zh-HK": "鴨脷洲"
+        }
+    },
+    "causewaybay": {
+        "location_id": "1019",
+        "translations": {
+            "en-US": "Causeway Bay",
+            "zh-HK": "銅鑼灣"
+        }
+    },
+    "central": {
+        "location_id": "1003",
+        "translations": {
+            "en-US": "Central",
+            "zh-HK": "中環"
+        }
+    },
+    "chaiwan": {
+        "location_id": "1013",
+        "translations": {
+            "en-US": "Chai Wan",
+            "zh-HK": "柴灣"
+        }
+    },
+    "cheklapkok": {
+        "location_id": "4002",
+        "translations": {
+            "en-US": "Chek Lap Kok",
+            "zh-HK": "赤鱲角"
+        }
+    },
+    "cheungchau": {
+        "location_id": "4004",
+        "translations": {
+            "en-US": "Cheung Chau",
+            "zh-HK": "長洲"
+        }
+    },
+    "cheungshawan": {
+        "location_id": "2013",
+        "translations": {
+            "en-US": "Cheung Sha Wan",
+            "zh-HK": "長沙灣"
+        }
+    },
+    "choihung": {
+        "location_id": "2032",
+        "translations": {
+            "en-US": "Choi Hung",
+            "zh-HK": "彩虹"
+        }
+    },
+    "cyberport": {
+        "location_id": "-9151",
+        "translations": {
+            "en-US": "Cyberport",
+            "zh-HK": "數碼港"
+        }
+    },
+    "deepwaterbay": {
+        "location_id": "1016",
+        "translations": {
+            "en-US": "Deep Water Bay",
+            "zh-HK": "深水灣"
+        }
+    },
+    "diamondhill": {
+        "location_id": "2027",
+        "translations": {
+            "en-US": "Diamond Hill",
+            "zh-HK": "鑽石山"
+        }
+    },
+    "discoverybay": {
+        "location_id": "4006",
+        "translations": {
+            "en-US": "Discovery Bay",
+            "zh-HK": "愉景灣"
+        }
+    },
+    "fanling": {
+        "location_id": "3008",
+        "translations": {
+            "en-US": "Fanling",
+            "zh-HK": "粉嶺"
+        }
+    },
+    "fotan": {
+        "location_id": "3013",
+        "translations": {
+            "en-US": "Fo Tan",
+            "zh-HK": "火炭"
+        }
+    },
+    "hanghau": {
+        "location_id": "-35259",
+        "translations": {
+            "en-US": "Hang Hau",
+            "zh-HK": "坑口"
+        }
+    },
+    "happyvalley": {
+        "location_id": "1017",
+        "translations": {
+            "en-US": "Happy Valley",
+            "zh-HK": "跑馬地"
+        }
+    },
+    "hengfachuen": {
+        "location_id": "1024",
+        "translations": {
+            "en-US": "Heng Fa Chuen",
+            "zh-HK": "杏花邨"
+        }
+    },
+    "homantin": {
+        "location_id": "2009",
+        "translations": {
+            "en-US": "Ho Man Tin",
+            "zh-HK": "何文田"
+        }
+    },
+    "hongkongisland": {
+        "location_id": "1999",
+        "translations": {
+            "en-US": "Hong Kong Island",
+            "zh-HK": "香港島"
+        }
+    },
+    "hunghom": {
+        "location_id": "2015",
+        "translations": {
+            "en-US": "Hung Hom",
+            "zh-HK": "紅磡"
+        }
+    },
+    "jordan": {
+        "location_id": "2028",
+        "translations": {
+            "en-US": "Jordan",
+            "zh-HK": "佐敦"
+        }
+    },
+    "kennedytown": {
+        "location_id": "-35242",
+        "translations": {
+            "en-US": "Kennedy Town",
+            "zh-HK": "堅尼地城"
+        }
+    },
+    "knutsfordterrace": {
+        "location_id": "-9008",
+        "translations": {
+            "en-US": "Knutsford Terrace",
+            "zh-HK": "諾士佛臺"
+        }
+    },
+    "kowloon": {
+        "location_id": "2999",
+        "translations": {
+            "en-US": "Kowloon",
+            "zh-HK": "九龍"
+        }
+    },
+    "kowloonbay": {
+        "location_id": "2003",
+        "translations": {
+            "en-US": "Kowloon Bay",
+            "zh-HK": "九龍灣"
+        }
+    },
+    "kowlooncity": {
+        "location_id": "2001",
+        "translations": {
+            "en-US": "Kowloon City",
+            "zh-HK": "九龍城"
+        }
+    },
+    "kowloontong": {
+        "location_id": "2002",
+        "translations": {
+            "en-US": "Kowloon Tong",
+            "zh-HK": "九龍塘"
+        }
+    },
+    "kwaichung": {
+        "location_id": "3019",
+        "translations": {
+            "en-US": "Kwai Chung",
+            "zh-HK": "葵涌"
+        }
+    },
+    "kwaifong": {
+        "location_id": "3015",
+        "translations": {
+            "en-US": "Kwai Fong",
+            "zh-HK": "葵芳"
+        }
+    },
+    "kwuntong": {
+        "location_id": "2026",
+        "translations": {
+            "en-US": "Kwun Tong",
+            "zh-HK": "觀塘"
+        }
+    },
+    "laichikok": {
+        "location_id": "2016",
+        "translations": {
+            "en-US": "Lai Chi Kok",
+            "zh-HK": "荔枝角"
+        }
+    },
+    "lammaisland": {
+        "location_id": "4005",
+        "translations": {
+            "en-US": "Lamma Island",
+            "zh-HK": "南丫島"
+        }
+    },
+    "lamtin": {
+        "location_id": "2024",
+        "translations": {
+            "en-US": "Lam Tin",
+            "zh-HK": "藍田"
+        }
+    },
+    "lankwaifong": {
+        "location_id": "-9007",
+        "translations": {
+            "en-US": "Lan Kwai Fong",
+            "zh-HK": "蘭桂坊"
+        }
+    },
+    "lantauisland": {
+        "location_id": "4001",
+        "translations": {
+            "en-US": "Lantau Island",
+            "zh-HK": "大嶼山"
+        }
+    },
+    "laufaushan": {
+        "location_id": "3016",
+        "translations": {
+            "en-US": "Lau Fau shan",
+            "zh-HK": "流浮山"
+        }
+    },
+    "leiyuemun": {
+        "location_id": "2025",
+        "translations": {
+            "en-US": "Lei Yue Mun",
+            "zh-HK": "鯉魚門"
+        }
+    },
+    "lokfu": {
+        "location_id": "2030",
+        "translations": {
+            "en-US": "Lok Fu",
+            "zh-HK": "樂富"
+        }
+    },
+    "lokmachau": {
+        "location_id": "3021",
+        "translations": {
+            "en-US": "Lok Ma Chau",
+            "zh-HK": "落馬洲"
+        }
+    },
+    "lowu": {
+        "location_id": "3011",
+        "translations": {
+            "en-US": "Lo Wu",
+            "zh-HK": "羅湖"
+        }
+    },
+    "maonshan": {
+        "location_id": "3009",
+        "translations": {
+            "en-US": "Ma On Shan",
+            "zh-HK": "馬鞍山"
+        }
+    },
+    "mawan": {
+        "location_id": "3022",
+        "translations": {
+            "en-US": "Ma Wan",
+            "zh-HK": "馬灣"
+        }
+    },
+    "meifoo": {
+        "location_id": "2031",
+        "translations": {
+            "en-US": "Mei Foo",
+            "zh-HK": "美孚"
+        }
+    },
+    "mid-levels": {
+        "location_id": "1005",
+        "translations": {
+            "en-US": "Mid-Levels",
+            "zh-HK": "半山"
+        }
+    },
+    "mongkok": {
+        "location_id": "2010",
+        "translations": {
+            "en-US": "Mong Kok",
+            "zh-HK": "旺角"
+        }
+    },
+    "newterritories": {
+        "location_id": "3999",
+        "translations": {
+            "en-US": "New Territories",
+            "zh-HK": "新界"
+        }
+    },
+    "ngautaukok": {
+        "location_id": "2006",
+        "translations": {
+            "en-US": "Ngau Tau Kok",
+            "zh-HK": "牛頭角"
+        }
+    },
+    "northpoint": {
+        "location_id": "1004",
+        "translations": {
+            "en-US": "North Point",
+            "zh-HK": "北角"
+        }
+    },
+    "outlyingislands": {
+        "location_id": "4999",
+        "translations": {
+            "en-US": "Outlying Islands",
+            "zh-HK": "離島"
+        }
+    },
+    "pengchau": {
+        "location_id": "4003",
+        "translations": {
+            "en-US": "Peng Chau",
+            "zh-HK": "坪洲"
+        }
+    },
+    "pokfulam": {
+        "location_id": "1021",
+        "translations": {
+            "en-US": "Pok Fu Lam",
+            "zh-HK": "薄扶林"
+        }
+    },
+    "polam": {
+        "location_id": "-35260",
+        "translations": {
+            "en-US": "Po Lam",
+            "zh-HK": "寶琳"
+        }
+    },
+    "potoiisland": {
+        "location_id": "4011",
+        "translations": {
+            "en-US": "Po Toi Island",
+            "zh-HK": "蒲苔島"
+        }
+    },
+    "princeedward": {
+        "location_id": "2029",
+        "translations": {
+            "en-US": "Prince Edward",
+            "zh-HK": "太子"
+        }
+    },
+    "quarrybay": {
+        "location_id": "1014",
+        "translations": {
+            "en-US": "Quarry Bay",
+            "zh-HK": "鰂魚涌"
+        }
+    },
+    "repulsebay": {
+        "location_id": "1015",
+        "translations": {
+            "en-US": "Repulse Bay",
+            "zh-HK": "淺水灣"
+        }
+    },
+    "saikung": {
+        "location_id": "3006",
+        "translations": {
+            "en-US": "Sai Kung",
+            "zh-HK": "西貢"
+        }
+    },
+    "saiwanho": {
+        "location_id": "1009",
+        "translations": {
+            "en-US": "Sai Wan Ho",
+            "zh-HK": "西灣河"
+        }
+    },
+    "saiyingpun": {
+        "location_id": "-35244",
+        "translations": {
+            "en-US": "Sai Ying Pun",
+            "zh-HK": "西營盤"
+        }
+    },
+    "sanpokong": {
+        "location_id": "2022",
+        "translations": {
+            "en-US": "San Po Kong",
+            "zh-HK": "新蒲崗"
+        }
+    },
+    "shamshuipo": {
+        "location_id": "2019",
+        "translations": {
+            "en-US": "Sham Shui Po",
+            "zh-HK": "深水埗"
+        }
+    },
+    "shamtseng": {
+        "location_id": "3010",
+        "translations": {
+            "en-US": "Sham Tseng",
+            "zh-HK": "深井"
+        }
+    },
+    "shatin": {
+        "location_id": "3007",
+        "translations": {
+            "en-US": "Sha Tin",
+            "zh-HK": "沙田"
+        }
+    },
+    "shaukeiwan": {
+        "location_id": "1018",
+        "translations": {
+            "en-US": "Shau Kei Wan",
+            "zh-HK": "筲箕灣"
+        }
+    },
+    "shekkipmei": {
+        "location_id": "2007",
+        "translations": {
+            "en-US": "Shek Kip Mei",
+            "zh-HK": "石硤尾"
+        }
+    },
+    "sheko": {
+        "location_id": "1007",
+        "translations": {
+            "en-US": "Shek O",
+            "zh-HK": "石澳"
+        }
+    },
+    "shektongtsui": {
+        "location_id": "-35243",
+        "translations": {
+            "en-US": "Shek Tong Tsui",
+            "zh-HK": "石塘咀"
+        }
+    },
+    "sheungshui": {
+        "location_id": "3001",
+        "translations": {
+            "en-US": "Sheung Shui",
+            "zh-HK": "上水"
+        }
+    },
+    "sheungwan": {
+        "location_id": "1001",
+        "translations": {
+            "en-US": "Sheung Wan",
+            "zh-HK": "上環"
+        }
+    },
+    "soho": {
+        "location_id": "-9006",
+        "translations": {
+            "en-US": "Soho",
+            "zh-HK": "蘇豪"
+        }
+    },
+    "stanley": {
+        "location_id": "1010",
+        "translations": {
+            "en-US": "Stanley",
+            "zh-HK": "赤柱"
+        }
+    },
+    "taihang": {
+        "location_id": "1025",
+        "translations": {
+            "en-US": "Tai Hang",
+            "zh-HK": "大坑"
+        }
+    },
+    "taikoktsui": {
+        "location_id": "2005",
+        "translations": {
+            "en-US": "Tai Kok Tsui",
+            "zh-HK": "大角咀"
+        }
+    },
+    "taikoo": {
+        "location_id": "1023",
+        "translations": {
+            "en-US": "Tai Koo",
+            "zh-HK": "太古"
+        }
+    },
+    "taio": {
+        "location_id": "4010",
+        "translations": {
+            "en-US": "Tai O",
+            "zh-HK": "大澳"
+        }
+    },
+    "taipo": {
+        "location_id": "3002",
+        "translations": {
+            "en-US": "Tai Po",
+            "zh-HK": "大埔"
+        }
+    },
+    "taiwai": {
+        "location_id": "3012",
+        "translations": {
+            "en-US": "Tai Wai",
+            "zh-HK": "大圍"
+        }
+    },
+    "taiwo": {
+        "location_id": "3014",
+        "translations": {
+            "en-US": "Tai Wo",
+            "zh-HK": "太和"
+        }
+    },
+    "thepeak": {
+        "location_id": "1002",
+        "translations": {
+            "en-US": "The Peak",
+            "zh-HK": "山頂"
+        }
+    },
+    "tinhau": {
+        "location_id": "1026",
+        "translations": {
+            "en-US": "Tin Hau",
+            "zh-HK": "天后"
+        }
+    },
+    "tinshuiwai": {
+        "location_id": "3004",
+        "translations": {
+            "en-US": "Tin Shui Wai",
+            "zh-HK": "天水圍"
+        }
+    },
+    "tokwawan": {
+        "location_id": "2004",
+        "translations": {
+            "en-US": "To Kwa Wan",
+            "zh-HK": "土瓜灣"
+        }
+    },
+    "tseungkwano": {
+        "location_id": "3020",
+        "translations": {
+            "en-US": "Tseung Kwan O",
+            "zh-HK": "將軍澳"
+        }
+    },
+    "tsimshatsui": {
+        "location_id": "2008",
+        "translations": {
+            "en-US": "Tsim Sha Tsui",
+            "zh-HK": "尖沙咀"
+        }
+    },
+    "tsingyi": {
+        "location_id": "3017",
+        "translations": {
+            "en-US": "Tsing Yi",
+            "zh-HK": "青衣"
+        }
+    },
+    "tsuenwan": {
+        "location_id": "3018",
+        "translations": {
+            "en-US": "Tsuen Wan",
+            "zh-HK": "荃灣"
+        }
+    },
+    "tszwanshan": {
+        "location_id": "2021",
+        "translations": {
+            "en-US": "Tsz Wan Shan",
+            "zh-HK": "慈雲山"
+        }
+    },
+    "tuenmun": {
+        "location_id": "3005",
+        "translations": {
+            "en-US": "Tuen Mun",
+            "zh-HK": "屯門"
+        }
+    },
+    "tungchung": {
+        "location_id": "4009",
+        "translations": {
+            "en-US": "Tung Chung",
+            "zh-HK": "東涌"
+        }
+    },
+    "wanchai": {
+        "location_id": "1022",
+        "translations": {
+            "en-US": "Wan Chai",
+            "zh-HK": "灣仔"
+        }
+    },
+    "westerndistrict": {
+        "location_id": "1008",
+        "translations": {
+            "en-US": "Western District",
+            "zh-HK": "西環"
+        }
+    },
+    "wongchukhang": {
+        "location_id": "1027",
+        "translations": {
+            "en-US": "Wong Chuk Hang",
+            "zh-HK": "黃竹坑"
+        }
+    },
+    "wongtaisin": {
+        "location_id": "2020",
+        "translations": {
+            "en-US": "Wong Tai Sin",
+            "zh-HK": "黃大仙"
+        }
+    },
+    "yaumatei": {
+        "location_id": "2011",
+        "translations": {
+            "en-US": "Yau Ma Tei",
+            "zh-HK": "油麻地"
+        }
+    },
+    "yautong": {
+        "location_id": "2012",
+        "translations": {
+            "en-US": "Yau Tong",
+            "zh-HK": "油塘"
+        }
+    },
+    "yuenlong": {
+        "location_id": "3003",
+        "translations": {
+            "en-US": "Yuen Long",
+            "zh-HK": "元朗"
+        }
+    }
+}
